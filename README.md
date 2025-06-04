@@ -10,7 +10,7 @@ This project focuses on predicting customer churn in the telecom industry using 
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
 - [Web Application](#web-application)
-- [How to Run](#how-to-run)
+- [How to Run](#running-the-application)
 - [Results](#results)
 
 ## Dataset
